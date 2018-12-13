@@ -1,0 +1,9 @@
+RepositoryURL:778201844681.dkr.ecr.us-east-1.amazonaws.com
+RepositoryName:sem-laptopsinsider-com
+Region:us-east-1
+Cluster:sem-sentimeta
+Family:sem-laptopsinsider-com
+ServiceName:sem-laptopsinsider-com-svc
+DesiredCount:2
+ExposedPort:4003
+PortToBeHit:4003
